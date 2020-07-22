@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Peyman Najafirad (Paul Rad), Senior Member IEEE, 
+Peyman Najafirad (Paul Rad), Senior Member IEEE
 Associate Professor
 <li> Department of Information Systems and Cyber Security
 <li> Department of Electrical and Computer Engineering (by courtesy)
