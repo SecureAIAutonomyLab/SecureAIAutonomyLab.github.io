@@ -12,7 +12,7 @@ Peyman Najafirad (Paul Rad), Senior Member IEEE received his B.S. degree in comp
 
 Research Interest
 ======
-My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data, rather than explicit instructions. I'm broadly interested in inference within structured, complex and combinatorial domains using graphical and deep models. In addition to its potential role in artificial general intelligence, our ability to draw inference in structured domains, is essential in a data-driven approach to science.
+My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data. I'm broadly interested in inference within structured, complex and combinatorial domains using graphical and deep models. In addition to its potential role in artificial general intelligence, our ability to draw inference in structured domains, is essential in a data-driven approach to science.
 
 Ph.D. Students
 ======
