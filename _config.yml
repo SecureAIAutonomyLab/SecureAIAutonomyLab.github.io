@@ -78,9 +78,9 @@ author:
   name             : "Paul Rad"
   avatar           : "paul.jpg"
   bio              : ""
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uoCn8c8AAAAJ&hl=en"
   email            : "paul.rad@utsa.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
