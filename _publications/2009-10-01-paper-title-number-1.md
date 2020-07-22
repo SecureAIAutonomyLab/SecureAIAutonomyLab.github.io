@@ -1,4 +1,3 @@
-
 ---
 title: "Opportunities and challenges in explainable artificial intelligence (XAI): A survey"
 collection: publications
