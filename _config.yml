@@ -2,7 +2,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peyman Najafirad (Paul Rad) - Associate Professor"
+title                    : "Peyman Najafirad (Paul Rad)"
 title_separator          : "-"
 name                     : &name "Peyman Najafirad"
 description              : &description "personal description"
