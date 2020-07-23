@@ -1,5 +1,5 @@
-Human Action Performance Using Deep Neuro-Fuzzy Recurrent Attention Model
 ---
+Human Action Performance Using Deep Neuro-Fuzzy Recurrent Attention Model
 title: ""
 collection:
 excerpt: 'A great number of computer vision publications have focused on distinguishing between human action recognition and classification rather than the intensity of actions performed. Indexing the intensity which determines the performance of human actions is a challenging task due to the uncertainty and information deficiency that exists in the video inputs. To remedy this uncertainty, in this paper we coupled fuzzy logic rules with the neural-based action recognition model to rate the intensity of a human action as intense or mild. In our approach, we used a Spatio-Temporal LSTM to generate the weights of the fuzzy-logic model, and then demonstrate through experiments that indexing of the action intensity is possible. We analyzed the integrated model by applying it to videos of human actions with different action intensities and were able to achieve an accuracy of 89.16% on our intensity indexing generated dataset. The integrated model demonstrates the ability of a neuro-fuzzy inference module to effectively estimate the intensity index of human actions.'
