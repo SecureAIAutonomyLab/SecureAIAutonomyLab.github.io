@@ -2,7 +2,7 @@
 title: "Human Action Performance Using Deep Neuro-Fuzzy Recurrent Attention Model"
 collection: publications
 excerpt: 'In this paper, we used a Spatio-Temporal LSTM to generate the weights of the fuzzy-logic model, and then demonstrate through experiments that indexing of the action intensity is possible.'
-date: 2020-10-01
+date: 2020-04-01
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9043480'
 ---
