@@ -1,9 +1,9 @@
 ---
 title: "Opportunities and challenges in explainable artificial intelligence (XAI): A survey"
 collection: publications
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'We propose a taxonomy and categorizing the XAI techniques based on their scope of explanations, methodology behind the algorithms, and explanation level or usage which helps build trustworthy, interpretable, and self-explanatory deep learning models.'
 date: 2020-06-16
-venue: 'Journal 1'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2006.11371'
 
 ---
