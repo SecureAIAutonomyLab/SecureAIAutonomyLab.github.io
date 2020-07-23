@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Peyman Najafirad (Paul Rad), 
-<li> Associate Professor, Senior Member IEEE 
-<li> Department of Information Systems and Cyber Security
-<li> Department of Electrical and Computer Engineering (by courtesy)
-<li> Director Secure AI and Autonomy Lab
-<li> Co-Founder Open Cloud Institute (OCI)
-<li> The University of Texas at San Antonio
-<li> Phone: 210.872.7259
-
-
 Paul received his B.S. degree in computer engineering from the Sharif University of Technology, in 1994, the master’s degree in artificial intelligence from the Tehran Polytechnic, and the master’s degree in computer science, the Ph.D. degree in electrical and computer engineering from The University of Texas at San Antonio, San Antonio, Texas, USA. He is currently the Founder and the Director of the Secure AI and Autonomy Laboratory, and an Associate Professor with the Department of Information Systems and Cyber Security (ISCS), The University of Texas at San Antonio. 
 
 Research Interest
