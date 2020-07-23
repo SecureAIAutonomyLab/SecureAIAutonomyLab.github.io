@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Human Action Performance Using Deep Neuro-Fuzzy Recurrent Attention Model"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'In this paper, we used a Spatio-Temporal LSTM to generate the weights of the fuzzy-logic model, and then demonstrate through experiments that indexing of the action intensity is possible.'
+date: 2020-10-01
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9043480'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A great number of computer vision publications have focused on distinguishing between human action recognition and classification rather than the intensity of actions performed. Indexing the intensity which determines the performance of human actions is a challenging task due to the uncertainty and information deficiency that exists in the video inputs. To remedy this uncertainty, in this paper we coupled fuzzy logic rules with the neural-based action recognition model to rate the intensity of a human action as intense or mild. In our approach, we used a Spatio-Temporal LSTM to generate the weights of the fuzzy-logic model, and then demonstrate through experiments that indexing of the action intensity is possible. We analyzed the integrated model by applying it to videos of human actions with different action intensities and were able to achieve an accuracy of 89.16% on our intensity indexing generated dataset. The integrated model demonstrates the ability of a neuro-fuzzy inference module to effectively estimate the intensity index of human actions.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9043480)
