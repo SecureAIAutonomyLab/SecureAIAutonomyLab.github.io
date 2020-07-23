@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Peyman Najafirad (Paul Rad), Senior Member IEEE received his B.S. degree in computer engineering from the Sharif University of Technology, in 1994, the master’s degree in artificial intelligence from the Tehran Polytechnic, and the master’s degree in computer science, the Ph.D. degree in electrical and computer engineering from The University of Texas at San Antonio, San Antonio, Texas, USA. He is currently the Founder and the Director of the Secure AI and Autonomy Laboratory, and an Associate Professor with the Department of Information Systems and Cyber Security (ISCS), The University of Texas at San Antonio. 
+Peyman Najafirad (Paul Rad), 
+Associate Professor, Senior Member IEEE 
+Department of Information Systems and Cyber Security
+Department of Electrical and Computer Engineering (by courtesy)
+Director Secure AI and Autonomy Lab
+Co-Founder Open Cloud Institute (OCI)
+The University of Texas at San Antonio
+Phone: 210.872.7259
+
+Dr. Paul Rad received his B.S. degree in computer engineering from the Sharif University of Technology, in 1994, the master’s degree in artificial intelligence from the Tehran Polytechnic, and the master’s degree in computer science, the Ph.D. degree in electrical and computer engineering from The University of Texas at San Antonio, San Antonio, Texas, USA. He is currently the Founder and the Director of the Secure AI and Autonomy Laboratory, and an Associate Professor with the Department of Information Systems and Cyber Security (ISCS), The University of Texas at San Antonio. 
 
 Research Interest
 ======
-My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data. I'm broadly interested in inference and causality using graphical and probabilistic deep models in applications such as image and natural language understanding. 
+My research area is machine learning, an approach to Artificial Intelligence that relies on learning from data. I'm broadly interested in inference and causality using graphical and probabilistic deep models in applications such as computer vision, natural language understanding, and cyber analytics. 
 
 Ph.D. Students
 ======
