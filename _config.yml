@@ -12,7 +12,7 @@ title                    : "Secure AI Autonomy Lab"
 title_separator          : "-"
 name                     : &name "Dr. Paul Rad"
 description              : &description "personal description"
-url                      : "https://secureaiautonomylab.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://secureaiautonomylab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SecureAIAutonomyLab/SecureAIAutonomyLab.github.io"  # "academicpages/academicpages.github.io"
 
