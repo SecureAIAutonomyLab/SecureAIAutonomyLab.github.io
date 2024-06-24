@@ -20,6 +20,18 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 Ph.D. Students
 ======
+- Isaac Corley at <span style="color:#52adc8">isaac.corley@utsa.edu</span>
+- Nafis Tanveer Islam at <span style="color:#52adc8">nafistanveer.islam@utsa.edu</span>
+- Mazal Bethany at <span style="color:#52adc8">mazal.bethany@utsa.edu</span>
+- Emet Bethany at <span style="color:#52adc8">emet.bethany@utsa.edu</span>
+- Paul Young at <span style="color:#52adc8">paul.young@utsa.edu</span>
+- Rinu Joseph at <span style="color:#52adc8">rinu.joseph@utsa.edu</span>
+- Ana Nunez at <span style="color:#52adc8">ana.nunez@utsa.edu</span>
+- Mohammad Bahrami Karkevandi at <span style="color:#52adc8">Mohammad.BahramiKarkevandi@utsa.edu</span>
+- Fatemeh Haji at <span style="color:#52adc8">Fatemeh.Haji@utsa.edu</span>
+
+Former Ph.D. Students
+======
 - Samuel Silva at <span style="color:#52adc8">samuel.silva@my.utsa.edu</span>
 - Henry Chacon at <span style="color:#52adc8">Henry.Chacon@utsa.edu</span>
 - Arun Das at <span style="color:#52adc8">arun.das@utsa.edu</span>
