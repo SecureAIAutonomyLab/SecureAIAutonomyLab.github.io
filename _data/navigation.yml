@@ -8,15 +8,17 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Workshop"
-    url: /workshop/
+    url: /portfolio/
+    
+  #- title: "Workshop"
+    #url: /workshop/
         
   - title: "Blog Posts"
     url: /year-archive/
 
-  #- title: "Workshop"
-    # url: /portfolio/
+
     
   # - title: "CV"
     # url: /cv/
