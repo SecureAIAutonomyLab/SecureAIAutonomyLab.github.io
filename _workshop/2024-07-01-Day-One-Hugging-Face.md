@@ -1,5 +1,5 @@
 ---
-# title
+title = ''
 ---
 ### Day One: Hugging Face, Vision Language Models and Event Instruct & Instruction Tuning ###
 Instructor: Emet Bethany<br>
