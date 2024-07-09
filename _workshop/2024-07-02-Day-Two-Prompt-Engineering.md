@@ -1,5 +1,5 @@
 ---
-#title: "Day Two: Prompt Engineering"
+# title: "Day Two: Prompt Engineering"
 ---
 ##### Day Two: Prompt Engineering #####
 Instructor: Emet Bethany<br>
