@@ -1,5 +1,5 @@
 ---
-
+title = ""
 ---
 
 ### Day Three: Agent Roles ###
