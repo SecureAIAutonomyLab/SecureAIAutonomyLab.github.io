@@ -1,6 +1,8 @@
 ---
 title: "Day One: Hugging Face"
 ---
+# Testing Purpose
+### Instructor: Dr. Paul Rad
 [Agentic Workshop Day 1](https://github.com/SecureAIAutonomyLab/SecureAIAutonomyLab.github.io/blob/main/_workshop/2024-07-01-Day-One-Hugging-Face.md)
 
 # School of Data Science - Summer Immersion
