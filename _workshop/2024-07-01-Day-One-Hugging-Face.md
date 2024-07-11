@@ -1,26 +1,9 @@
----
-title = "Day One: Hugging Face, Vision Language Models and Event Instruct & Instruction Tuning"
----
-[Agentic Workshop Day 1 - Hugging Face](https://utsacloud-my.sharepoint.com/personal/peyman_najafirad_utsa_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fpeyman%5Fnajafirad%5Futsa%5Fedu%2FDocuments%2F%5FSecure%20AI%20%26%20Autonomy%20Lab%2FAgenticWorkshop%2Fday%2D1%5FHugging%20Face)
-
-### Agentic Workshop Day 1 - Hugging Face ###
-#### Description ####
-Add Some Contents
-##### Instructor: Emet Bethany #####
-##### Resources: #####
-
-<img align="left" height="70" src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/chameleon.jpg">
-
-<img align="right" height="70"  src="https://github.com/utsabigdata/AI-Workshop/blob/master/ITESM-workshop/pics/jetstream.png">
-
-<br /><br /><br />
-
-# Big Data Analytics Bootcamp for Learning Analytics Practitioner
+# School of Data Science - Summer Immersion
 
 ### Instructor: Dr. Paul Rad
-### TAs: Sammuel Silva, Gonzalo De La Torre Parra, and Brandon Lwowski
+### TAs: Mazal Bethany, Emet Bethany & Mohammad Bahrami Karkevandi
 
-### Workshop Attendance: 40 Doctors from the EGADE Business School (ITESM)
+### Workshop Attendance: 12 students from Montereaid
 
 ## Course Materials:
 * [Jupyter Notebooks](https://github.com/utsabigdata/AI-Workshop)
