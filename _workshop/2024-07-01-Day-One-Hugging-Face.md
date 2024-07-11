@@ -1,7 +1,7 @@
 ---
 title: "Day One: Hugging Face"
 ---
-[Agentic Workshop Day 1](https://utsacloud-my.sharepoint.com/personal/peyman_najafirad_utsa_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fpeyman%5Fnajafirad%5Futsa%5Fedu%2FDocuments%2F%5FSecure%20AI%20%26%20Autonomy%20Lab%2FAgenticWorkshop%2Fday%2D1%5FHugging%20Face)
+[Agentic Workshop Day 1](https://github.com/SecureAIAutonomyLab/SecureAIAutonomyLab.github.io/blob/main/_workshop/2024-07-01-Day-One-Hugging-Face.md)
 
 # School of Data Science - Summer Immersion
 
