@@ -272,7 +272,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _workshops
+  # _workshop
   - scope:
       path: ""
       type: workshop
