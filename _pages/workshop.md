@@ -5,13 +5,13 @@ permalink: /workshop/
 author_profile: true
 # <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 ---
-### Hello World ###
-##### Workshop Lead: Mazal Bethany #####
-•Presenters: Emet Bethany, Mohammad Bahrami Karkevandi
-•Day 1: High Performance Computing
- This workshop covers the fundamentals of running jobs on UTSA’s ARC HPC systems that offer GPU computing capabilities to students. Attendees were introduced to networking, storage, job submission, and best practices for using common software with LLMs. With assistance from ARC's administrative staff, students were given access to GPUs on ARC. During the workshop, attendees connected to ARC and ran commands to ensure everyone could access and use ARC. Utilizing GPU access, attendees participated in a hands-on assignment to fine-tune a small LLM, Microsoft Phi-2, on an instruction-based dataset.
-•(Link to workshop materials)
-•Day 2: HuggingFace Workshop
+## Workshop Lead: Mazal Bethany 
+### Presenters: Emet Bethany, Mohammad Bahrami Karkevandi
+#### Day 1: High Performance Computing
+This workshop covers the fundamentals of running jobs on UTSA’s ARC HPC systems that offer GPU computing capabilities to students. Attendees were introduced to networking, storage, job submission, and best practices for using common software with LLMs. With assistance from ARC's administrative staff, students were given access to GPUs on ARC. During the workshop, attendees connected to ARC and ran commands to ensure everyone could access and use ARC. Utilizing GPU access, attendees participated in a hands-on assignment to fine-tune a small LLM, Microsoft Phi-2, on an instruction-based dataset.
+[Agentic Workshop Day 3](https://utsacloud-my.sharepoint.com/personal/peyman_najafirad_utsa_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fpeyman%5Fnajafirad%5Futsa%5Fedu%2FDocuments%2F%5FSecure%20AI%20%26%20Autonomy%20Lab%2FAgenticWorkshop%2Fday%2D4%5FHPC)
+
+#### Day 2: HuggingFace Workshop
  This workshop covers leveraging the Hugging Face platform for machine learning tasks. Attendees learn the basics of getting started with Hugging Face, exploring the Model and Dataset Hub, and selecting appropriate models, particularly Large Language Models. The workshop includes fine-tuning techniques and provides code examples for loading models/datasets, creating training scripts, and utilizing other useful functions. Attendees also participate in a practical demonstration, creating a simple chatbot using an LLM (Llama3) from Hugging Face, complete with chat history functionality.
 •(Link to workshop materials)
 •Day 3: Prompt Engineering Workshop
