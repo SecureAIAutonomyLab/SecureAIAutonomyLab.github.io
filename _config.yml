@@ -212,7 +212,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  workshop:
+  workshops:
     output: true
     permalink: /:collection/:path/
 
@@ -272,10 +272,10 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _workshop
+  # _workshops
   - scope:
       path: ""
-      type: workshop
+      type: workshops
     values:
       layout: single
       author_profile: true
