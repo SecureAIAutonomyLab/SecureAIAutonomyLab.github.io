@@ -212,7 +212,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  workshops:
+  workshop:
     output: true
     permalink: /:collection/:path/
 
