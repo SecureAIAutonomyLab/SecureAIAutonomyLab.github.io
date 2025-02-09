@@ -1,12 +1,11 @@
 ---
 # layout: archive
 title: "Large Language Model Agent Workshop"
-permalink: /workshop_02_09_2025/
+permalink: /workshop/
 author_profile: true
 # <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 ---
-## Workshop Lead: Mazal Bethany
-## Presenters: Emet Bethany, Mohammad Bahrami Karkevandi
+## Presenters: Mazal Bethany, Emet Bethany, Mohammad Bahrami Karkevandi
 We delivered a training workshop on multi-agent LLMs as part of international summer program at the School of Data Science (SDS) hosting 12 international students from June 24 to July 27 for the first annual SDS Summer Immersion Experience. The students, from two private Mexican universities- Tecnológico de Monterrey (TEC) and the Instituto Tecnológico Autónomo de México (ITAM)- spent a month in San Antonio assisting SDS core faculty with their research.
 
 ### Day 1: High Performance Computing
