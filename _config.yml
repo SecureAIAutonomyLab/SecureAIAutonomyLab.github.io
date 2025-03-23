@@ -215,6 +215,9 @@ collections:
   workshop:
     output: true
     permalink: /:collection/:path/
+  demos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
