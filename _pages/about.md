@@ -41,7 +41,7 @@ Former Ph.D. Students
 
 Master Student
 ======
-- Krutin Rajnikant Patel at style="color:#52adc8">krutin.patel@utsa.edu</span>
+- Krutin Rajnikant Patel at <span style="color:#52adc8">krutin.patel@utsa.edu</span>
 
 For more info
 ------
