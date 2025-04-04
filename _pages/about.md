@@ -39,6 +39,10 @@ Former Ph.D. Students
 - Nima Ebadi at <span style="color:#52adc8">nima.ebadi@utsa.edu</span>
 - Gonzalo De La Torre Parra at <span style="color:#52adc8">Gonzalo.DeLaTorreParra@utsa.edu</span>
 
+Master Student
+======
+- Krutin Rajnikant Patel at style="color:#52adc8">krutin.patel@utsa.edu</span>
+
 For more info
 ------
 For more info about Secure AI Autonomy Lab can be found at [our website](https://vohongthinh2011.github.io/PeymanNajafirad/).
