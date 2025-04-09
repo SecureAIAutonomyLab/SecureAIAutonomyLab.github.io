@@ -1,0 +1,716 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Secure AI Autonomy Lab</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Secure AI Autonomy Lab">
+<meta property="og:title" content="Secure AI Autonomy Lab">
+
+
+  <link rel="canonical" href="https://secureaiautonomylab.github.io/_pages/LLM_Agentic_Class_Template/">
+  <meta property="og:url" content="https://secureaiautonomylab.github.io/_pages/LLM_Agentic_Class_Template/">
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Dr. Paul Rad",
+      "url" : "https://secureaiautonomylab.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://secureaiautonomylab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Secure AI Autonomy Lab Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://secureaiautonomylab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://secureaiautonomylab.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://secureaiautonomylab.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://secureaiautonomylab.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://secureaiautonomylab.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://secureaiautonomylab.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://secureaiautonomylab.github.io/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://secureaiautonomylab.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://secureaiautonomylab.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://secureaiautonomylab.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://secureaiautonomylab.github.io/assets/css/academicons.css"/>
+
+
+<!-- Support for MatJax -->
+<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://secureaiautonomylab.github.io/">Secure AI Autonomy Lab</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/talks/">Talks</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/teaching/">Teaching</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/workshop/">Workshop</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/year-archive/">Blog Posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://secureaiautonomylab.github.io/demos/">Demos</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://secureaiautonomylab.github.io/images/najafirad_peyman.jpg" class="author__avatar" alt="Dr. Peyman Najafirad">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Dr. Peyman Najafirad</h3>
+    
+    <p class="author__bio">The University of Texas at San Antonio</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      <!-- Font Awesome icons / Biographic information  -->
+      
+        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>SP1 210B</li>
+      
+      
+      
+        <li><a href="https://secureaiautonomylab.github.io"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>Homepage</a></li>
+      
+      
+        <li><a href="mailto:Peyman.Najafirad@utsa.edu"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
+      
+
+      <!-- Font Awesome and Academicons icons / Academic websites -->
+            
+      
+        <li><a href="https://scholar.google.com/citations?user=uoCn8c8AAAAJ&hl=en"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+      
+      
+      
+      
+                              
+      
+
+      <!-- Font Awesome icons / Repositories and software development -->
+      
+            
+            
+      
+        <li><a href="https://github.com/https://github.com/SecureAIAutonomyLab"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
+      
+            
+            
+
+      <!-- Font Awesome icons / Social media -->
+      
+      
+            
+      
+                  
+                  
+      
+            
+            
+      
+        <li><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/paulrad"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+            
+      
+            
+                  
+            
+      
+            
+            
+      
+        <li><a href="https://twitter.com/https://x.com/"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X (formerly Twitter)</a></li>
+      
+              
+      
+                      
+      
+      
+            
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          
+        
+        
+            
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Large Language Model Agents              llm-agents-mooc</p>
+
+<h1 id="large-language-model-agents">Large Language Model Agents</h1>
+
+<h2 id="mooc-fall-2024">MOOC, Fall 2024</h2>
+
+<p>Announcement:</p>
+
+<p>Sign up and learn more about the LLM Agents Hackathon <a href="https://rdi.berkeley.edu/llm-agents-hackathon/">here</a>!</p>
+
+<h3 id="prospective-students">Prospective Students</h3>
+
+<ul>
+  <li>This course has completed. Video lectures can still be found in the syllabus below. Please sign up for the <a href="https://llmagents-learning.org/sp25">Spring 2025 iteration</a> today!</li>
+  <li>All certificates have been released! Thank you for a great semester.</li>
+</ul>
+
+<h2 id="course-staff">Course Staff</h2>
+
+<p>Instructor</p>
+
+<p>Co-instructor</p>
+
+<p><img src="assets/dawn-berkeley.jpg" alt="" /></p>
+
+<p><img src="assets/XinyunChen.jpg" alt="" /></p>
+
+<p><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></p>
+
+<p>Xinyun Chen</p>
+
+<p>Professor, UC Berkeley</p>
+
+<p>Research Scientist,<br />
+Google DeepMind</p>
+
+<h2 id="guest-speakers">Guest Speakers</h2>
+
+<p>.table { width: 100%; table-layout: fixed; border-collapse: collapse; } .table td { width: 25%; text-align: center; vertical-align: top; padding: 10px; }</p>
+
+<p><img src="assets/Denny Zhou.jpeg" alt="" /></p>
+
+<p><img src="assets/Shunyu Yao.jpeg" alt="" /></p>
+
+<p><img src="assets/Chi Wang.jpg" alt="" /></p>
+
+<p><img src="assets/Jerry Liu.jpg" alt="" /></p>
+
+<p>Denny Zhou</p>
+
+<p>Shunyu Yao</p>
+
+<p>Chi Wang</p>
+
+<p>Jerry Liu</p>
+
+<p><img src="assets/Google Deepmind.png" alt="" /></p>
+
+<p><img src="assets/openai.png" alt="" /></p>
+
+<p><img src="assets/Google Deepmind.png" alt="" /></p>
+
+<p><img src="assets/LlamaIndex.png" alt="" /></p>
+
+<p><img src="assets/Burak Gokturk.png" alt="" /></p>
+
+<p><img src="assets/Omar Khattab.jpg" alt="" /></p>
+
+<p><img src="assets/Graham Neubig.jpg" alt="" /></p>
+
+<p><img src="assets/Nicolas Chapados.jpg" alt="" /></p>
+
+<p>Burak Gokturk</p>
+
+<p>Omar Khattab</p>
+
+<p>Graham Neubig</p>
+
+<p>Nicolas Chapados</p>
+
+<p><img src="assets/Google.jpg" alt="" /></p>
+
+<p><img src="assets/databricks.png" alt="" /></p>
+
+<p><img src="assets/CMU.png" alt="" /></p>
+
+<p><img src="assets/servicenow.png" alt="" /></p>
+
+<p><img src="assets/Yuandong Tian.png" alt="" /></p>
+
+<p><img src="assets/Jim Fan.jpeg" alt="" /></p>
+
+<p><img src="assets/Percy Liang.jpeg" alt="" /></p>
+
+<p><img src="assets/Ben Mann.jpeg" alt="" /></p>
+
+<p>Yuandong Tian</p>
+
+<p>Jim Fan</p>
+
+<p>Percy Liang</p>
+
+<p>Ben Mann</p>
+
+<p><img src="assets/meta ai.jpeg" alt="" /></p>
+
+<p><img src="assets/nvidia.png" alt="" /></p>
+
+<p><img src="assets/stanford.png" alt="" /></p>
+
+<p><img src="assets/Anthropic.png" alt="" /></p>
+
+<h2 id="course-description">Course Description</h2>
+
+<p>Large language models (LLMs) have revolutionized a wide range of domains. In particular, LLMs have been developed as agents to interact with the world and handle various tasks. With the continuous advancement of LLM techniques, LLM agents are set to be the upcoming breakthrough in AI, and they are going to transform the future of our daily life with the support of intelligent task automation and personalization. In this course, we will first discuss fundamental concepts that are essential for LLM agents, including the foundation of LLMs, essential LLM abilities required for task automation, as well as infrastructures for agent development. We will also cover representative agent applications, including code generation, robotics, web automation, medical applications, and scientific discovery. Meanwhile, we will discuss limitations and potential risks of current LLM agents, and share insights into directions for further improvement. Specifically, this course will include the following topics:</p>
+
+<ul>
+  <li>Foundation of LLMs</li>
+  <li>Reasoning</li>
+  <li>Planning, tool use</li>
+  <li>LLM agent infrastructure</li>
+  <li>Retrieval-augmented generation</li>
+  <li>Code generation, data science</li>
+  <li>Multimodal agents, robotics</li>
+  <li>Evaluation and benchmarking on agent applications</li>
+  <li>Privacy, safety and ethics</li>
+  <li>Human-agent interaction, personalization, alignment</li>
+  <li>Multi-agent collaboration</li>
+</ul>
+
+<h2 id="syllabus">Syllabus</h2>
+
+<p>Date</p>
+
+<p>Guest Lecture<br />
+(3:00PM-5:00PM PST)</p>
+
+<p>Supplemental Readings</p>
+
+<p>Sept 9</p>
+
+<p><strong>LLM Reasoning</strong><br />
+Denny Zhou, Google DeepMind<br />
+<a href="https://www.youtube.com/live/QL-FS_Zcmyo">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/intro.pdf">Intro</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/llm-reasoning.pdf">Slides</a> <a href="https://forms.gle/1pb6nkwZPyUqvFPe6">Quiz 1</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2402.10200">Chain-of-Thought Reasoning Without Prompting</a><br />
+- <a href="https://arxiv.org/abs/2310.01798">Large Language Models Cannot Self-Correct Reasoning Yet</a><br />
+- <a href="https://arxiv.org/abs/2402.08939">Premise Order Matters in Reasoning with Large Language Models</a><br />
+- <a href="https://arxiv.org/abs/2402.12875">Chain-of-Thought Empowers Transformers to Solve Inherently Serial Problems</a></p>
+
+<p>Sept 16</p>
+
+<p><strong>LLM agents: brief history and overview</strong><br />
+Shunyu Yao, OpenAI<br />
+<a href="https://www.youtube.com/watch?v=RM6ZArd2nVc">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/llm_agent_history.pdf">Slides</a> <a href="https://forms.gle/t9ictrAjxTrWd9tr6">Quiz 2</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2207.01206">WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents</a><br />
+- <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models</a></p>
+
+<p>Sept 23</p>
+
+<p><strong>Agentic AI Frameworks &amp; AutoGen</strong><br />
+Chi Wang, AutoGen-AI<br />
+<strong>Building a Multimodal Knowledge Assistant</strong><br />
+Jerry Liu, LlamaIndex<br />
+<a href="https://www.youtube.com/live/OOdtmCMSOo4">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/autogen.pdf">Chi’s Slides</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/MKA.pdf">Jerry’s Slides</a> <a href="https://forms.gle/osuDEXRmDHJvLi1T7">Quiz 3</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2308.08155">AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</a><br />
+- <a href="https://arxiv.org/abs/2403.11322">StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows</a></p>
+
+<p>Sept 30</p>
+
+<p><strong>Enterprise trends for generative AI, and key components of building successful agents/applications</strong><br />
+Burak Gokturk, Google<br />
+<a href="https://www.youtube.com/live/Sy1psHS3w3I">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/Burak_slides.pdf">Slides</a> <a href="https://forms.gle/gcoo9HWGdF3xVAPGA">Quiz 4</a></p>
+
+<p>- <a href="https://cloud.google.com/blog/products/ai-machine-learning/rag-and-grounding-on-vertex-ai?e=48754805">Google Cloud expands grounding capabilities on Vertex AI</a><br />
+- <a href="https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38">The Needle In a Haystack Test: Evaluating the performance of RAG systems</a><br />
+- <a href="https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it?e=48754805">The AI detective: The Needle in a Haystack test and how Gemini 1.5 Pro solves it</a></p>
+
+<p>Oct 7</p>
+
+<p><strong>Compound AI Systems &amp; the DSPy Framework</strong><br />
+Omar Khattab, Databricks<br />
+<a href="https://www.youtube.com/live/JEMYuzrKLUw">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/dspy_lec.pdf">Slides</a> <a href="https://forms.gle/tXzmfgTsdYW5XjLL6">Quiz 5</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2406.11695">Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs</a><br />
+- <a href="https://arxiv.org/abs/2407.10930">Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together</a></p>
+
+<p>Oct 14</p>
+
+<p><strong>Agents for Software Development</strong><br />
+Graham Neubig, Carnegie Mellon University<br />
+<a href="https://www.youtube.com/live/f9L9Fkq-8K4">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/neubig24softwareagents.pdf">Slides</a> <a href="https://forms.gle/v4AD4vFYCjdK9qeDA">Quiz 6</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2405.15793">SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering</a><br />
+- <a href="https://arxiv.org/abs/2407.16741">OpenHands: An Open Platform for AI Software Developers as Generalist Agents</a></p>
+
+<p>Oct 21</p>
+
+<p><strong>AI Agents for Enterprise Workflows</strong><br />
+Nicolas Chapados, ServiceNow<br />
+<a href="https://www.youtube.com/live/-yf-e-9FvOc">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/agentworkflows.pdf">Slides</a> <a href="https://forms.gle/VWpd1q23PBFptVCe8">Quiz 7</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2403.07718">WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?</a><br />
+- <a href="https://arxiv.org/abs/2407.05291">WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks</a><br />
+- <a href="https://rdi.berkeley.edu/llm-agents-mooc/assets/tapeagents.pdf">TapeAgents: a Holistic Framework for Agent Development and Optimization</a></p>
+
+<p>Oct 28</p>
+
+<p><strong>Towards a unified framework of Neural and Symbolic Decision Making</strong><br />
+Yuandong Tian, Meta AI (FAIR)<br />
+<a href="https://www.youtube.com/live/wm9-7VBpdEo">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/102824-yuandongtian.pdf">Slides</a> <a href="https://forms.gle/MLZy2czaMtJYhTSD7">Quiz 8</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2402.14083">Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping</a><br />
+- <a href="https://arxiv.org/abs/2410.09918v1">Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces</a><br />
+- <a href="https://arxiv.org/abs/2410.01779">Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets</a><br />
+- <a href="https://arxiv.org/abs/2210.12547">SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems</a></p>
+
+<p>Nov 4</p>
+
+<p><strong>Project GR00T: A Blueprint for Generalist Robotics</strong><br />
+Jim Fan, NVIDIA<br />
+<a href="https://www.youtube.com/live/Qhxr0uVT2zs">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents/assets/jimfangr00t.pdf">Slides</a> <a href="https://forms.gle/SsvzxWugqJD2VB2FA">Quiz 9</a></p>
+
+<p>- <a href="https://voyager.minedojo.org/">Voyager: An Open-Ended Embodied Agent with Large Language Models</a><br />
+- <a href="https://eureka-research.github.io/">Eureka: Human-Level Reward Design via Coding Large Language Models</a><br />
+- <a href="https://eureka-research.github.io/dr-eureka/">DrEureka: Language Model Guided Sim-To-Real Transfer</a></p>
+
+<p>Nov 11</p>
+
+<p><strong>No Class - Veterans Day</strong></p>
+
+<p>Nov 18</p>
+
+<p><strong>Open-Source and Science in the Era of Foundation Models</strong><br />
+Percy Liang, Stanford University<br />
+<a href="https://www.youtube.com/live/f3KKx9LWntQ">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/percyliang.pdf">Slides</a> <a href="https://forms.gle/VMu6XGEWHhW1xvij6">Quiz 10</a></p>
+
+<p>- <a href="https://arxiv.org/abs/2408.08926">Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models</a></p>
+
+<p>Nov 25</p>
+
+<p><strong>Measuring Agent capabilities and Anthropic’s RSP</strong><br />
+Ben Mann, Anthropic<br />
+<a href="https://www.youtube.com/live/6y2AnWol7oo">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/antrsp.pdf">Slides</a> <a href="https://forms.gle/QU9EyEyeWP5sjPAu7">Quiz 11</a></p>
+
+<p>- <a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">Announcing our updated Responsible Scaling Policy</a><br />
+- <a href="https://www.anthropic.com/news/developing-computer-use">Developing a computer use model</a></p>
+
+<p>Dec 2</p>
+
+<p><strong>Towards Building Safe &amp; Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy</strong><br />
+Dawn Song, UC Berkeley<br />
+<a href="https://www.youtube.com/live/QAgR4uQ15rc">Livestream</a> <a href="https://rdi.berkeley.edu/llm-agents/assets/dawn-agent-safety.pdf">Slides</a> <a href="https://forms.gle/EHwL4Jb3LZzNDw7w7">Quiz 12</a></p>
+
+<p>- <a href="https://understanding-ai-safety.org/">A Path for Science‑ and Evidence‑based AI Policy</a><br />
+- <a href="https://arxiv.org/abs//2306.11698">DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models</a><br />
+- <a href="https://arxiv.org/abs/2310.01405">Representation Engineering: A Top-Down Approach to AI Transparency</a><br />
+- <a href="https://www.usenix.org/system/files/sec21-carlini-extracting.pdf">Extracting Training Data from Large Language Models</a><br />
+- <a href="https://www.usenix.org/system/files/sec19-carlini.pdf">The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks</a></p>
+
+<h2 id="completion-certificate">Completion Certificate</h2>
+
+<p>LLM Agent course completion certificates will be awarded to students based on the rules of the following tiers. All assignments are due December 12th, 2024 at 11:59PM PST. To recieve your certificate please complete the <a href="https://forms.gle/nYGJLPTdb7af2Dq59">Certificate Declaration Form</a> by December 17th, 2024 at 11:59PM PST.</p>
+
+<p><strong>Trailblazer Tier:</strong></p>
+
+<ul>
+  <li>Complete all 12 quizzes associated with each lecture</li>
+  <li>Pass the written article assignment</li>
+</ul>
+
+<p><strong>Mastery Tier:</strong></p>
+
+<ul>
+  <li>Complete all 12 quizzes associated with each lecture</li>
+  <li>Pass the written article assignment</li>
+  <li>Pass all 3 lab assignments</li>
+</ul>
+
+<p><strong>Ninja Tier:</strong></p>
+
+<ul>
+  <li>Complete all 12 quizzes associated with each lecture</li>
+  <li>Pass the written article assignment</li>
+  <li>Submit a project to the <a href="https://rdi.berkeley.edu/llm-agents-hackathon/">LLM Agents Hackathon</a></li>
+</ul>
+
+<p><strong>Legendary Tier:</strong></p>
+
+<ul>
+  <li>Complete all 12 quizzes associated with each lecture</li>
+  <li>Pass the written article assignment</li>
+  <li>Become a prize winner or finalist at the <a href="https://rdi.berkeley.edu/llm-agents-hackathon/">LLM Agents Hackathon</a></li>
+</ul>
+
+<p><strong>Honorary Tier:</strong></p>
+
+<ul>
+  <li>For the most helpful/supportive students in discord!</li>
+  <li>Meets coursework requirements of Ninja OR Mastery Tier</li>
+</ul>
+
+<p><em>NOTE: completing the assignments associated with this course in order to earn a Completion Certificate is completely optional. You are more than welcome to just watch the lectures and audit the course!</em></p>
+
+<h2 id="coursework">Coursework</h2>
+
+<p>All coursework will be released and submitted through the course website.</p>
+
+<h3 id="quizzes">Quizzes</h3>
+
+<p>All quizzes are released in parallel with (or shortly after) the corresponding lecture. Please remember to complete the quiz each week. Although it’s graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz. The quizzes will be posted in the Syllabus section.</p>
+
+<p>An archive of all of the quizzes can be found <a href="https://docs.google.com/document/d/1pYvOxt2UWwc3z4QlW2Di5LQT-FJPWZ419mxJT7pFPsU/edit?usp=sharing">here</a>.</p>
+
+<h3 id="written-article">Written Article</h3>
+
+<p>Create a twitter post, linkedin post, or medium article to post on Twitter of roughly 500 words. Include the link to our MOOC website in the article and tweet.</p>
+
+<ul>
+  <li>Students in the Trailblazer or Mastery Tier should either summarize information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC</li>
+  <li>Students in the Ninja or Lengendary Tier should write about their hackathon submission</li>
+</ul>
+
+<p>The written article is an effort-based assignment that will be graded as pass or no pass (P/NP). Submit your written article assignment <a href="https://forms.gle/7ekobPNSWDLBWnDT6">HERE</a>.</p>
+
+<h3 id="labs">Labs</h3>
+
+<p>There will be 3 lab assignments to give students some hands-on experience with building agents. Students must pass all 3 lab assignments. All labs are due December 12th, 2024 at 11:59pm PST. Please read the instructions carefully <a href="https://rdi.berkeley.edu/llm-agents-mooc/assets/instructions.pdf">here</a>. Please read the FAQs <a href="https://docs.google.com/document/d/12MHAbLh86kGDuc2ddOmLHwjAuHh_rHiuAf_UiFuYcvE/edit?usp=sharing">here</a> before asking questions in Discord.</p>
+
+<p>Assignment</p>
+
+<p>Submission Form</p>
+
+<p><a href="https://drive.google.com/drive/folders/1mOisEUkoLBcIcdkdGDiftq4IFAJ3xpzJ?usp=sharing">Lab 1</a></p>
+
+<p><a href="https://forms.gle/kTXzpaJqh3d4BvEWA">Submission 1</a></p>
+
+<p><a href="https://drive.google.com/file/d/1GOd6miwZ_PzcqubPt8dNLfbq_9X5TUHf/view?usp=sharing">Lab 2</a></p>
+
+<p><a href="https://forms.gle/5J7ZM1DvmP4TfiAG8">Submission 2</a></p>
+
+<p><a href="https://drive.google.com/file/d/1QW3YpNJQdYaIavexlQ9YVsiW7kgT6VOg/view?usp=sharing">Lab 3</a></p>
+
+<p><a href="https://forms.gle/9zEpec81YVr2LUzt7">Submission 3</a></p>
+
+<h3 id="hackathon">Hackathon</h3>
+
+<p>Check out our hackathon website <a href="https://rdi.berkeley.edu/llm-agents-hackathon/">here</a>. Sign up for the hackathon <a href="https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform">here</a> — every member of the team should signup individually. Then, complete the team creation form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdKesnu7G_7M1dR-Uhb07ubvyZxcw6_jcl8klt-HuvahZvpvA/viewform">here</a>. There are no limits to team sizes.</p>
+
+<p>For any questions, please visit our Hackathon FAQ <a href="https://docs.google.com/document/d/1P4OBOXuHRJYU9tf1KH_NQWvaZQ1_8wCfNi3MOnCw6RI/edit?usp=sharing">here</a>. You can also ask questions and find potential team members in our <a href="https://discord.gg/NWVpQ9rBvd">LLM Agents Discord</a>.</p>
+
+<p>Submit your final hackathon project <a href="https://forms.gle/jNr8nSH9Cy9qpYcu5">here</a> before December 17th, 2024 @11:59PM PST.</p>
+
+<p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</p>
+
+
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+
+
+      </footer>
+
+      
+
+      
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="http://github.com/https://github.com/SecureAIAutonomyLab"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    
+    <li><a href="https://secureaiautonomylab.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2025 Dr. Paul Rad. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://secureaiautonomylab.github.io/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
+

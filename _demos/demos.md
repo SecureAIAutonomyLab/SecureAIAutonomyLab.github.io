@@ -4,7 +4,8 @@ title: "Demos"
 permalink: /demos/
 author_profile: true
 ---
+
 {% include base_path %}
-{% for post in site.demos reversed %}
-  {% include archive-single.html %}
+{% for demo in site.demos reversed limit: 10 %}
+{% include archive-single.html demo=demo %}
 {% endfor %}
