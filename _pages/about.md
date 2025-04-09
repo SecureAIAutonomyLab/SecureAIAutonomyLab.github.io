@@ -41,9 +41,10 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 - Nima Ebadi at <span style="color:#52adc8">nima.ebadi@utsa.edu</span>
 - Gonzalo De La Torre Parra at <span style="color:#52adc8">Gonzalo.DeLaTorreParra@utsa.edu</span>
 
-# Master Students
+## Master Students
 
-- Krutin Rajnikant Patel at <span style="color:#52adc8">krutin.patel@utsa.edu</span>
+- Krutin Rajnikant Patel
+  Email: <span style="color:#52adc8">krutin.patel@utsa.edu</span>
 
 ## For more info
 
