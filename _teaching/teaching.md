@@ -1,15 +1,9 @@
 ---
-title: "2024-summer-teaching-2.md"
+layout: archive
+title: "Courses Taught"
+permalink: /teaching/
+author_profile: true
 ---
-
-<!---
-This is a description of 2024 Summer Teaching Class 2
-Location: PeymanNajafirad/\_teaching/2024-summer-teaching-2.md
-
-
-
-title: "2024-summer-teaching-1.md"
--->
 
 - ISCS 7053 Topics: LLM Agentic AI Systems, Graduate Course, Department of Information Systems and Cyber Security, University of Texas at San Antonio, Spring 2025.
 

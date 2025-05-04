@@ -1,18 +1,16 @@
 ---
-# layout: archive
-# title: "Large Language Model Agent Workshop"
-# permalink: /teachingLLM/
-# author_profile: true
-# <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+#layout: archive
+#title: "Large Language Model Agent Workshop"
+#permalink: /teachingLLM/
+#author_profile: true
+#<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 ---
-  
-  Large Language Model Agents              llm-agents-mooc     
 
-Large Language Model Agents
-===========================
+Large Language Model Agents llm-agents-mooc
 
-MOOC, Fall 2024
----------------
+# Large Language Model Agents
+
+## MOOC, Fall 2024
 
 Announcement:
 
@@ -20,11 +18,10 @@ Sign up and learn more about the LLM Agents Hackathon [here](https://rdi.berkele
 
 ### Prospective Students
 
-*   This course has completed. Video lectures can still be found in the syllabus below. Please sign up for the [Spring 2025 iteration](https://llmagents-learning.org/sp25) today!
-*   All certificates have been released! Thank you for a great semester.
+- This course has completed. Video lectures can still be found in the syllabus below. Please sign up for the [Spring 2025 iteration](https://llmagents-learning.org/sp25) today!
+- All certificates have been released! Thank you for a great semester.
 
-Course Staff
-------------
+## Course Staff
 
 Instructor
 
@@ -43,8 +40,7 @@ Professor, UC Berkeley
 Research Scientist,  
 Google DeepMind
 
-Guest Speakers
---------------
+## Guest Speakers
 
 .table { width: 100%; table-layout: fixed; border-collapse: collapse; } .table td { width: 25%; text-align: center; vertical-align: top; padding: 10px; }
 
@@ -120,25 +116,23 @@ Ben Mann
 
 ![](assets/Anthropic.png)
 
-Course Description
-------------------
+## Course Description
 
 Large language models (LLMs) have revolutionized a wide range of domains. In particular, LLMs have been developed as agents to interact with the world and handle various tasks. With the continuous advancement of LLM techniques, LLM agents are set to be the upcoming breakthrough in AI, and they are going to transform the future of our daily life with the support of intelligent task automation and personalization. In this course, we will first discuss fundamental concepts that are essential for LLM agents, including the foundation of LLMs, essential LLM abilities required for task automation, as well as infrastructures for agent development. We will also cover representative agent applications, including code generation, robotics, web automation, medical applications, and scientific discovery. Meanwhile, we will discuss limitations and potential risks of current LLM agents, and share insights into directions for further improvement. Specifically, this course will include the following topics:
 
-*   Foundation of LLMs
-*   Reasoning
-*   Planning, tool use
-*   LLM agent infrastructure
-*   Retrieval-augmented generation
-*   Code generation, data science
-*   Multimodal agents, robotics
-*   Evaluation and benchmarking on agent applications
-*   Privacy, safety and ethics
-*   Human-agent interaction, personalization, alignment
-*   Multi-agent collaboration
+- Foundation of LLMs
+- Reasoning
+- Planning, tool use
+- LLM agent infrastructure
+- Retrieval-augmented generation
+- Code generation, data science
+- Multimodal agents, robotics
+- Evaluation and benchmarking on agent applications
+- Privacy, safety and ethics
+- Human-agent interaction, personalization, alignment
+- Multi-agent collaboration
 
-Syllabus
---------
+## Syllabus
 
 Date
 
@@ -270,43 +264,41 @@ Dawn Song, UC Berkeley
 \- [Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)  
 \- [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://www.usenix.org/system/files/sec19-carlini.pdf)
 
-Completion Certificate
-----------------------
+## Completion Certificate
 
 LLM Agent course completion certificates will be awarded to students based on the rules of the following tiers. All assignments are due December 12th, 2024 at 11:59PM PST. To recieve your certificate please complete the [Certificate Declaration Form](https://forms.gle/nYGJLPTdb7af2Dq59) by December 17th, 2024 at 11:59PM PST.
 
 **Trailblazer Tier:**
 
-*   Complete all 12 quizzes associated with each lecture
-*   Pass the written article assignment
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
 
 **Mastery Tier:**
 
-*   Complete all 12 quizzes associated with each lecture
-*   Pass the written article assignment
-*   Pass all 3 lab assignments
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Pass all 3 lab assignments
 
 **Ninja Tier:**
 
-*   Complete all 12 quizzes associated with each lecture
-*   Pass the written article assignment
-*   Submit a project to the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Submit a project to the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
 
 **Legendary Tier:**
 
-*   Complete all 12 quizzes associated with each lecture
-*   Pass the written article assignment
-*   Become a prize winner or finalist at the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Become a prize winner or finalist at the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
 
 **Honorary Tier:**
 
-*   For the most helpful/supportive students in discord!
-*   Meets coursework requirements of Ninja OR Mastery Tier
+- For the most helpful/supportive students in discord!
+- Meets coursework requirements of Ninja OR Mastery Tier
 
 _NOTE: completing the assignments associated with this course in order to earn a Completion Certificate is completely optional. You are more than welcome to just watch the lectures and audit the course!_
 
-Coursework
-----------
+## Coursework
 
 All coursework will be released and submitted through the course website.
 
@@ -320,8 +312,8 @@ An archive of all of the quizzes can be found [here](https://docs.google.com/doc
 
 Create a twitter post, linkedin post, or medium article to post on Twitter of roughly 500 words. Include the link to our MOOC website in the article and tweet.
 
-*   Students in the Trailblazer or Mastery Tier should either summarize information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
-*   Students in the Ninja or Lengendary Tier should write about their hackathon submission
+- Students in the Trailblazer or Mastery Tier should either summarize information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
+- Students in the Ninja or Lengendary Tier should write about their hackathon submission
 
 The written article is an effort-based assignment that will be graded as pass or no pass (P/NP). Submit your written article assignment [HERE](https://forms.gle/7ekobPNSWDLBWnDT6).
 

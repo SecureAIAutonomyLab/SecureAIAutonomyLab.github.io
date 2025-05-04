@@ -20,30 +20,68 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 - Probabilistic decision making
 - Reinforcement learning
 
-# Ph.D. Students
+# News
 
-- Nafis Tanveer Islam at <span style="color:#52adc8">nafistanveer.islam@utsa.edu</span>
-- Mazal Bethany at <span style="color:#52adc8">mazal.bethany@utsa.edu</span>
-- Emet Bethany at <span style="color:#52adc8">emet.bethany@utsa.edu</span>
-- Paul Young at <span style="color:#52adc8">paul.young@utsa.edu</span>
-- Rinu Joseph at <span style="color:#52adc8">rinu.joseph@utsa.edu</span>
-- Ana Nunez at <span style="color:#52adc8">ana.nunez@utsa.edu</span>
-- Mohammad Bahrami Karkevandi at <span style="color:#52adc8">Mohammad.BahramiKarkevandi@utsa.edu</span>
-- Fatemeh Haji at <span style="color:#52adc8">Fatemeh.Haji@utsa.edu</span>
+- **Jan 23, 2025**: Our paper on metric-driven attributions in vision transformers accepted at ICLR 2025
+
+- **Jan 22, 2025**: Our papers on information flow in vision transformers accepted at AISTATS 2025
+
+- **Dec 15, 2024**: Our papers on jailbreaking LLMs and agent-based secure code generation presented in workshops @NeurIPS 2024
+
+- **Sep 01, 2024**: Our paper on verification of path based computed presented at ICCAD 2024
+
+- **Feb 11, 2024**: Three(3) papers have been accepted at the ACM Design Automation Conference (DAC) 2024
+
+# PhD Students
+
+- Paul Young
+- Ana Nunez
+- Mohammad Bahrami
+- Fatemeh Haji
+- Nasim Faridnia
+- Rinu Joseph
+- Jesus Guerrero
 
 # Former Ph.D. Students
 
-- Isaac Corley at <span style="color:#52adc8">isaac.corley@utsa.edu</span>
-- Samuel Silva at <span style="color:#52adc8">samuel.silva@my.utsa.edu</span>
-- Henry Chacon at <span style="color:#52adc8">Henry.Chacon@utsa.edu</span>
-- Arun Das at <span style="color:#52adc8">arun.das@utsa.edu</span>
-- Nihar Bendre at <span style="color:#52adc8">Nihar.Bendre@utsa.edu</span>
-- Nima Ebadi at <span style="color:#52adc8">nima.ebadi@utsa.edu</span>
-- Gonzalo De La Torre Parra at <span style="color:#52adc8">Gonzalo.DeLaTorreParra@utsa.edu</span>
+- Dr. Abdalwahab Almajed, Ph.D. Computer Science  
+  Thesis Title: _Evaluation of Machine Learning Fairness in Regression Domain_, April 2025.
 
-# Master Students
+- Dr. Isaac Corley, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Multimodal Learning for Infrastructure Mapping in Remote Sensing_, October 2024.
 
-- Krutin Rajnikant Patel at <span style="color:#52adc8">krutin.patel@utsa.edu</span>
+- Dr. Nafis Tanveer Islam, Ph.D. Computer Science
+  Thesis Title: _Static and Binary Source Code Vulnerability Analysis with Transformer-based Generative Models_, July 2024
+
+- Dr. Brandon Lwowski, Ph.D. Information Systems and Cyber Security
+  Thesis Title: _Towards Safe and Trustworthy Language Models: Understanding Performance Disparities in Computational Social Science_, May 2023.
+
+- Dr. Arun Das, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Interpretable Deep Learning Algorithms for Cognitive Neuroscience and Human Behavior Research_, December 2021.
+
+- Dr. Nima Ebadi, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Deep Representation Learning for Biomedical Text-based Documents_, August 2021.
+
+- Dr. Amin Sahba, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Intelligent Flow Control of Connected Driverless Vehicles in Smart City in Intersections_, December 2021.
+
+- Dr. Ramin Sahba, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _3D Object Detection for Autonomous Vehicles Perception Based on Combination of LiDAR, Radar_, December 2021.
+
+- Dr. Samuel Silva, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Robust Defense Algorithms against Adversarial Attacks and Deepfake_, August 2021.
+
+- Dr. Henry Chacon, Ph.D. Applied Statistics
+  Thesis Title: _Countermeasures against backdoor, data poisoning, and data adversarial attacks_, August 2021.
+
+- Dr. Gonzalo De La Torre Parra, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Distributed AI-Defense for Cyber Threats on Edge Computing Systems_, May 2021.
+
+- Dr. Nihar Bendre, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Explainability with Semantic Concept Composition and Zero-shot Learning for Anomaly Detection_, May 2021.
+
+- Dr. Ali Miraftab, Ph.D. Electrical and Computer Engineering
+  Thesis Title: _Real-time Adaptive Data Driven Perception for Anomaly Priority Scoring at Scale_, December 2017.
 
 ## For more info
 

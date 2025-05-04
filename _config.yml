@@ -210,7 +210,6 @@ collections:
   demos:
     output: true
     permalink: /:collection/:path/
-
 # Defaults
 defaults:
   # _posts
