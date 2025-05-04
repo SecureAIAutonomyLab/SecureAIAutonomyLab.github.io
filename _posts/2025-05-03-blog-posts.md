@@ -3,8 +3,6 @@ date: 2025-05-03
 permalink: /posts/2025/05/blog-posts/
 ---
 
-# Blog Posts
-
 Here are some blog posts I recommend:
 
 1. [**Ryan Robinson's Blog, ryrob (Blogging, Marketing, Seo)**](https://www.ryrob.com/blog/)
