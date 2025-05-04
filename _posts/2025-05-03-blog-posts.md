@@ -1,6 +1,6 @@
 ---
-date: 2025-05-03
-permalink: /posts/2025/05/blog-posts/
+permalink: /year-archive/
+author_profile: true
 ---
 
 Here are some blog posts I recommend:
