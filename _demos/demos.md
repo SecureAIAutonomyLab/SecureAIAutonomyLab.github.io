@@ -11,8 +11,8 @@ author_profile: true
 {% endfor %}
 
 <div style="flex: 1 1 45%; border: 1px solid #ddd; padding: 10px;">
-  <h3>Demo 1: What Are AI Agentic Really About?</h3>
-  <p>Explore the core principles and applications of AI agentic systems.</p>
+  <h3>Demo 1: DigitalTwinUI</h3>
+  <p>Explore the core principles and applications of AI agentic systems in the DigitalTwinUI.</p>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <!-- Commented out YouTube iframe for now -->
     <!-- <iframe
