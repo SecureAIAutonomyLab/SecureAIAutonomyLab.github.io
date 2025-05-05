@@ -22,15 +22,9 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 # News
 
-- **Jan 23, 2025**: Our paper on metric-driven attributions in vision transformers accepted at ICLR 2025
-
-- **Jan 22, 2025**: Our papers on information flow in vision transformers accepted at AISTATS 2025
 
 - **Dec 15, 2024**: Our papers on jailbreaking LLMs and agent-based secure code generation presented in workshops @NeurIPS 2024
 
-- **Sep 01, 2024**: Our paper on verification of path based computed presented at ICCAD 2024
-
-- **Feb 11, 2024**: Three(3) papers have been accepted at the ACM Design Automation Conference (DAC) 2024
 
 # PhD Students
 
