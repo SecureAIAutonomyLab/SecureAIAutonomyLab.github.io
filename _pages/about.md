@@ -24,7 +24,9 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 
 - **Dec 15, 2024**: Our papers on jailbreaking LLMs and agent-based secure code generation presented in workshops @NeurIPS 2024
-
+- **August 15, 2024**: Out paper on Deciphering Textual Authenticity presented in the 33rd USENIX Security Symposium
+- **May  22, 2024**: Our paper on Inductive Learning to Infer Lateral Movement presented in 2024 IEEE Symposium on Security and Privacy (IEEE S&P)
+- **Jan 22, 2024**: Our paper on Image Safeguarding using Conditional Vision Language Model present in the 38th Annual AAAI Conference on Artificial Intelligence.
 
 # PhD Students
 
