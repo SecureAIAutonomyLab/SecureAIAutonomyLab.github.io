@@ -81,4 +81,4 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 ## For more info
 
-For more info about Secure AI Autonomy Lab can be found at [our website](https://vohongthinh2011.github.io/PeymanNajafirad/).
+For more info about Secure AI Autonomy Lab can be found at [our website](https://secureaiautonomylab.github.io/).
