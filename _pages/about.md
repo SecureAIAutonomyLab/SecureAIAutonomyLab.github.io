@@ -22,7 +22,8 @@ My research area is machine learning, an approach to Artificial Intelligence tha
 
 # News
 
-
+- **Aug 20, 2025**: Our paper "Reflective Agreement: Combining Self-Mixture of Agents with a Sequence Tagger for Robust Event Extraction" has been accepted to EMNLP 2025.
+- **July 18, 2025**: Our paper "Sensitivity of Density-Ratio Estimation Based Fairness Measurement in Regression" has been accepted to AAAI/ACM Conference on AI, Ethics, and Society (AIES-2025)
 - **Dec 15, 2024**: Our papers on jailbreaking LLMs and agent-based secure code generation presented in workshops @NeurIPS 2024
 - **August 15, 2024**: Out paper on Deciphering Textual Authenticity presented in the 33rd USENIX Security Symposium
 - **May  22, 2024**: Our paper on Inductive Learning to Infer Lateral Movement presented in 2024 IEEE Symposium on Security and Privacy (IEEE S&P)
